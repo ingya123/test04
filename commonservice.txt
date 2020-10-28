@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 공통 키근 추가
 =======
 a-branch 공통 기능 추가
 >>>>>>> a-branch
+=======
+b-branch 공통 기능 추가
+>>>>>>> b-branch
